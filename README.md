@@ -1,6 +1,6 @@
-# dacon_summarization_competition
+## dacon_summarization_competition
 
-2. 신용카드 사용자 연체 예측 AI 경진대회
+### 2. 신용카드 사용자 연체 예측 AI 경진대회
 
 #### 1.주제
 신용카드 사용자 데이터를 보고 사용자의 대금 연체 정도를 예측하는 알고리즘 개발 
@@ -14,4 +14,4 @@
 
 이번엔 꼭 순위권에 들어보자!
 
-1. 
+### 1. AI summarization competition
